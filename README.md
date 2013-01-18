@@ -1,4 +1,4 @@
 MeaCulpa
 ========
 
-Dabbles in artificial intelligence planning
+Trying out git and eclipse!
