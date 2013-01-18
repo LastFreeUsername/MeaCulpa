@@ -1,4 +1,4 @@
 MeaCulpa
 ========
 
-Artificial Intelligence Planning
+Dabbles in artificial intelligence planning
